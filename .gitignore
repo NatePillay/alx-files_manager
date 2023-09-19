@@ -109,3 +109,5 @@ credentials.json
 *secret*
 token.json
 .coveralls.yml
+
+node_modules
